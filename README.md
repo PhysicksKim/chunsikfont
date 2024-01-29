@@ -1,6 +1,8 @@
 # 춘식폰트 
 
 로컬 웹 서버를 사용하여 폰트 파일을 CSS 에서 import 할 수 있도록 도와주는 웹 서버입니다.  
+
+[다운로드 - chunsik-font.zip](https://github.com/PhysicksKim/chunsikfont/releases/tag/v1.0.x)
   
 <br><br>
   
@@ -18,7 +20,7 @@
   
 ## 0. 압축 파일을 받아서 압축을 풀어 주세요.
   
-[다운로드 - chunsik-font.zip]()
+[다운로드 - chunsik-font.zip](https://github.com/PhysicksKim/chunsikfont/releases/tag/v1.0.x)
 
 ### 주의사항
 
